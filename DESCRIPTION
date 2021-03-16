@@ -1,0 +1,24 @@
+Package: HurricanaProjectGeom
+Type: Package
+Title: Hurricane Project Geom
+Version: 0.1.0
+Author: Emilio Garcia
+Maintainer: Emilio Garcia <eg@newtonspark.com>
+Description: The purpose of this assignment is to draw on your knowledge of the grid and ggplot2 package to build a new geom. You will then need to load and tidy the provided dataset in order to plot the geom on a map.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Imports:
+   dplyr,
+   lubridate,
+   magrittr,
+   readr,
+   stringr,
+   tidyr,
+   ggplot2,
+   geosphere
+Suggests:
+    knitr,
+    rmarkdown,
+    testthat
