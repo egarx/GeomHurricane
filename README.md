@@ -1,3 +1,8 @@
+
+[![Travis build
+status](https://travis-ci.com/egarx/GeomHurricane.svg?branch=master)](https://travis-ci.com/egarx/GeomHurricane)
+
+
 # Geom for Hurricanes
 
 The purpose of this exercise is to build a new geom using `grid` and
