@@ -7,8 +7,8 @@
 
 # Geom for Hurricanes
 
-The purpose of this exercise is to build a new geom using `grid` and
-`ggplot2` packages to facilitate in visualizing hurricane winds on a
+The purpose of this exercise is to build a new geom using grid and
+ggplot2 packages to facilitate in visualizing hurricane winds on a
 map.
 
 ## Hurricanes
@@ -30,15 +30,15 @@ right of the storm’s direction of forward motion, and wind radii might
 be much larger for the northeast quadrant of the storm than the
 northwest quadrant.
 
-## Data
-
-The aforementioned wind radii are available for Atlantic basin tropical
-storms since 1988 through the [Extended Best Tract
-dataset](http://rammb.cira.colostate.edu/research/tropical_cyclones/tc_extended_best_track_dataset/)
-maintained by [Colorodo State University](https://www.colostate.edu/).
-
-### Load Data
+###Data
 
 One of the functions in this package allow us to import raw Extended
 Best Track (EBTRK) data. The example data has 29 variables and 11,824
-rows. The first few rows of the raw data are displayed below.
+rows. 
+
+Here is an example of the wind radii chart for Hurricane Ike 2008.
+
+![](Figures/Ike_example.png)<!-- -->
+
+
+
