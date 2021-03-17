@@ -1,5 +1,4 @@
 <!-- badges: start -->
-[![Travis build status](https://travis-ci.com/egarx/GeomHurricane.svg?branch=master)](https://travis-ci.com/egarx/GeomHurricane)
 [![R-CMD-check](https://github.com/egarx/GeomHurricane/workflows/R-CMD-check/badge.svg)](https://github.com/egarx/GeomHurricane/actions)
 <!-- badges: end -->
 
