@@ -1,8 +1,3 @@
-[![AppVeyor build
-status](https://ci.appveyor.com/api/projects/status/github/egarx/GeomHurricane?branch=master&svg=true)](https://github.com/egarx/GeomHurricane.git egarx/GeomHurricane)
-[![Travis build
-status](https://travis-ci.com/egarx/GeomHurricane.svg?branch=master)](https://travis-ci.com/egarx/GeomHurricane)
-
 # Geom for Hurricanes
 
 The purpose of this exercise is to build a new geom using `grid` and
