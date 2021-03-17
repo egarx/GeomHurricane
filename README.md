@@ -1,4 +1,6 @@
 
+[![AppVeyor build
+status](https://ci.appveyor.com/api/projects/status/github/egarx/GeomHurricane?branch=master&svg=true)](https://ci.appveyor.com/project/egarx/GeomHurricane)
 [![Travis build
 status](https://travis-ci.com/egarx/GeomHurricane.svg?branch=master)](https://travis-ci.com/egarx/GeomHurricane)
 
