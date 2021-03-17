@@ -45,7 +45,11 @@ an animation of its trayectory. You can see this work at the
 file ~/R/Hurricana_Project_Geom.R.
 
 
+
+
 ![](Figures/Ike_example.png)<!-- -->
+
+
 
 
 Here you can appreciate the trayectory of this hurricane
