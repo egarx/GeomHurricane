@@ -44,4 +44,11 @@ Here is an example of the wind radii chart for Hurricane Ike 2008 during its lan
 an animation of its trayectory. You can see this work at the 
 file ~/R/Hurricana_Project_Geom.R.
 
-![](Figures/Ike_example.png, Figures/Ike_example.gif)<!-- -->
+
+![](Figures/Ike_example.png!<!-- -->
+
+
+Here you can appreciate the trayectory of this hurricane
+
+
+![]( Figures/Ike_example.gif)<!-- -->
