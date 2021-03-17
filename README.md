@@ -49,4 +49,4 @@ file ~/R/Hurricana_Project_Geom.R.
 
 
 
-![](figures/Ike_example.gif)<!-- -->
+![](Figures/Ike_example.gif)<!-- -->
