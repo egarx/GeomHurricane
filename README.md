@@ -54,5 +54,4 @@ file ~/R/Hurricana_Project_Geom.R.
 
 Here you can appreciate the trayectory of this hurricane
 
-
 ![]( Figures/Ike_example.gif)<!-- -->
