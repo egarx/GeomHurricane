@@ -30,15 +30,20 @@ right of the storm’s direction of forward motion, and wind radii might
 be much larger for the northeast quadrant of the storm than the
 northwest quadrant.
 
-###Data
+### Data
 
 One of the functions in this package allow us to import raw Extended
-Best Track (EBTRK) data. The example data has 29 variables and 11,824
-rows. 
+Best Track (EBTRK) data. The example data has 29 variables and 11,824 rows. 
+The data had to be cleaned and tidey in onder to fill a data table to feed 
+the coded functions. You can see this work at the 
+file ~/R/Hurricana_Project_Geom_Data.R.
 
-Here is an example of the wind radii chart for Hurricane Ike 2008.
+### How the Library Works on Ike 2008
+
+Here is an example of the wind radii chart for Hurricane Ike 2008 during its lanfall and
+an animation of its trayectory. You can see this work at the 
+file ~/R/Hurricana_Project_Geom.R.
 
 ![](Figures/Ike_example.png)<!-- -->
 
-
-
+![](figures/Ike_example.gif)<!-- -->
